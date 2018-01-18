@@ -1,0 +1,12 @@
+Source: vendors-addendum
+Maintainer: bbalazs <bbalazs@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 2011.8.8
+Homepage: https://github.com/eriknyk/addendum
+
+Package: vendors-addendum
+Architecture: all
+Description: DocBlock/JavaDoc annotations support for PHP5.
+    Supporting single and multi valued annotations accessible through extended Reflection API.
